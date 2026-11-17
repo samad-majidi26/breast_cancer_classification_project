@@ -48,8 +48,8 @@ Python, pandas, NumPy, scikit-learn, XGBoost, matplotlib, seaborn, Jupyter
 ## How to run
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/samad-majidi26/breast_cancer_classification_project.git
+cd breast_cancer_classification_project
 pip install numpy pandas matplotlib seaborn scikit-learn xgboost jupyter
 jupyter notebook cancer_data.ipynb
 ```
